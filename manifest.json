@@ -1,11 +1,11 @@
 {
-  "name": "Hello Extensions!",
-  "description": "Base Level Extension",
+  "name": "WebMail Extension",
+  "description": "IceWarp Keyboard Shortcuts",
   "version": "1.0",
   "manifest_version": 3,
   
   "page_action": {
-    "default_popup": "hello.html",
-    "default_icon": "hello_extensions.png"
+    "default_popup": "iw_keyboard_ex.html",
+    "default_icon": "iw_icon.png"
   }
 }
